@@ -3,8 +3,8 @@
 An in-development osu! clone designed to run on web browers
 It is planned to emulate the osu! experience as closely as possible in the browser
 
-**NOTE this project is no longer under development and is likely abandoned for now. Any bugs that exist are unlikely to be fixed**
-
+**Now being updated again by a 3rd Party!**
+**All credits go to Joshua-Usi for creating this beautiful clone of osu!**
 ### Expected features
 - [x] Local Beatmaps
 - [x] Star rating (no online API)
@@ -36,11 +36,11 @@ It is planned to emulate the osu! experience as closely as possible in the brows
 
 
 ### Where can I play?
-You can play it by clicking on the link [here](https://joshua-usi.github.io/osw)
+You can play it by clicking on the link [here](https://Soon!)
   
 ## FAQs
 ### Can you implement so and so or found a bug?
-Have a feature request or found a bug? submit an issue report [here](https://github.com/Joshua-Usi/osw/issues/new/choose)
+Have a feature request or found a bug? submit an issue report [here](https://github.com/Soon!)
 
 ### Will you support _____ browser or device?
 osw! will gaurantee support for Chrome, Firefox and Edge. All other browsers are subject to their own risks. Internet explorer is not supported at any version. Safari is planned to be supported
